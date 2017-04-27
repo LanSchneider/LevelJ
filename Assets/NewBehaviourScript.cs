@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour {
 
+	int a;
 	// Use this for initialization
 	void Start () {
 		
